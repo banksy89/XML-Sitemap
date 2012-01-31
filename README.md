@@ -10,7 +10,7 @@
 <ol>
   <li>Put create.php and download.php in a directory where you want to create the XML file</li>
   <li>Open a browser</li>
-  <li>Direct yourself to the directory and use create.php?url=website.com   - With the query string, it's not neccessary to include www.</li>
+  <li>Direct yourself to the directory and use create.php?url=yourwebsite.com   - (replace yourwebiste.com with the one you want! ) With the query string, it's not neccessary to include www.</li>
   <li>Press enter in the URL bar ( of course )</li>
   <li>If you have kept the 'force download' in the create.php file you will get a download prompt</li>
   <li>Open the download, and there it is!</li>
